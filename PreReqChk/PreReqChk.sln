@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moeDEP", "..\moeDEP\moeDEP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobDEP", "..\mobDEP\mobDEP.csproj", "{163A01A2-D69F-4B89-BA9F-C00FA0512EC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreReqChkPreview", "..\PreReqChkPreview\PreReqChkPreview.csproj", "{AAAA1FFA-D43B-4313-B66E-00D291B9DA20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{163A01A2-D69F-4B89-BA9F-C00FA0512EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{163A01A2-D69F-4B89-BA9F-C00FA0512EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{163A01A2-D69F-4B89-BA9F-C00FA0512EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAA1FFA-D43B-4313-B66E-00D291B9DA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAA1FFA-D43B-4313-B66E-00D291B9DA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAA1FFA-D43B-4313-B66E-00D291B9DA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAA1FFA-D43B-4313-B66E-00D291B9DA20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

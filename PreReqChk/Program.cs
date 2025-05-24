@@ -6,7 +6,7 @@ using System.Management;
 using System.Net.NetworkInformation;
 using System.Threading;
 
-namespace PostDeploymentPhase1
+namespace PreReqChk
 {
     class Program
     {
